@@ -1,6 +1,4 @@
-# CyberSecurity Task
-
-Cybersecurity fundamentals lesson assignment in group 6424E
+# Lab1
 
 #
 We first create  users.
@@ -17,7 +15,6 @@ We add users to the groups we created.
 #
 Then we create a collection of files.
 ![alt text](https://github.com/senanhacizade/lab1/blob/main/lab1/file%20duzeltmek.png) 
-
 #
 We grant various permissions with chown
 ![alt text](https://github.com/senanhacizade/lab1/blob/main/lab1/chown.png) 
