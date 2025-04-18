@@ -1,4 +1,4 @@
-# Lab1
+# Kiber Təhlükəsizliyin əsasları
 
 #
 We first create  users.
